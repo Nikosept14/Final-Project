@@ -11,7 +11,7 @@ The system utilizes an **ESP32 microcontroller** and **Dynamixel servomotors** t
 
 The controller system is capable of:
 - Coordinating **multi-DOF motion** for humanoid dance movements.
-- Achieving flexibility, balance, and synchronization with choreography.
+- Achieving flexibility and balance
 - Executing pre-programmed dynamic dance sequences.
 
 ---
